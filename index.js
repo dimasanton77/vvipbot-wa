@@ -1337,7 +1337,7 @@ if (messageType === MessageType.text)
       let is = m.message.conversation.toLocaleLowerCase()
       if (is == '.Group')
       {
-         fetch('https://chat.whatsapp.com/D2o2iSgtRtpFXD2PWfJBoj')
+         fetch('https://chat.whatsapp.com/Iha0w06AhzW9eI79e8s6y1')
             .then(res => res.text())
             .then(body =>
             {
