@@ -8,9 +8,13 @@ exports.menu = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, ak
 
 「 Dayz BOT 」
 
-╭════•›「 Dayz 」
+╭════•›「 ${BotName} 」
 ├≽️ *.Menu*
 ├ _Menampilkan list menu_
+├≽️ *.Group* 
+├ https://chat.whatsapp.com/Iha0w06AhzW9eI79e8s6y1
+├≽️ *.Owner*
+├ _Info Admin bot_
 ╰═══════════════
 
 ╭════•›「 GRUP 」
