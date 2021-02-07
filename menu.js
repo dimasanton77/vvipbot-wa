@@ -6,15 +6,11 @@ exports.menu = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, ak
 
 「 *LIST MENU* 」
 
-「 VVIPINDO BOT 」
+「 Dayz BOT 」
 
-╭════•›「 ${BotName} 」
+╭════•›「 Dayz 」
 ├≽️ *.Menu*
 ├ _Menampilkan list menu_
-├≽️ *.Group* 
-├ https://chat.whatsapp.com/D2o2iSgtRtpFXD2PWfJBoj
-├≽️ *.Owner*
-├ _Info Admin bot_
 ╰═══════════════
 
 ╭════•›「 GRUP 」
